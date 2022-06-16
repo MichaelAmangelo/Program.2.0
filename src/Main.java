@@ -35,18 +35,21 @@ public class Main {
     public static double divide(double b, double d) {
 
         double total = b / d;
+
         return total;
     }
 
     public static int multiply(int a, int b, int d) {
 
         int total = a * b * d;
+
         return total;
     }
 
     public static int sum(int a, int b, int c, int d) {
 
         int total = a + b + c + d;
+
         return total;
     }
 }
