@@ -29,6 +29,7 @@ public class Main {
     public static int subtract(int b, int c) {
 
         int total = b - c;
+        
         return total;
     }
 
